@@ -3,7 +3,7 @@ en:
   subscribtion: Subscribtion
   donation: Donation
   on_github: !!escape
-    RadioBoot web application on <a href="//github.com/Yellowen/RadioBoot">Github</a>
+    Tech5 web application on <a href="//github.com/Yellowen/Tech5">Github</a>
   sponsor_desc_html: !!escape
     If you are interested in supporting us by any means please contact us via email ( <span class='email'></span> ). We would be happy to hear about you.
   mp3version: "MP3 version"
@@ -47,7 +47,7 @@ en:
   googleplus: "Google+"
   twitter: "Twitter"
   follow_us: "Follow us"
-  radio_boot: "Radio Boot"
+  radio_boot: "Tech5"
   home: "Home"
   play: "Play"
   download: "Download"
@@ -55,8 +55,8 @@ en:
   home: "Home"
   archive: "Archive"
   faq: "FAQ"
-  copyright: © 2014 RadioBoot
-  about: "RadioBoot, Because of technology"
+  copyright: © 2015 Tech5
+  about: "Tech5, Because of technology"
   rss: "RSS"
   thanks_sponsors: "Special thanks to our sponsors who without them this podcast wouldn't happen"
   become_sponsor: Become a sponsore
