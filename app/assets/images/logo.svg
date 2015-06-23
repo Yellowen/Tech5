@@ -9,33 +9,36 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="180"
-   height="100"
+   width="64mm"
+   height="64mm"
+   viewBox="0 0 226.77166 226.77165"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="tech5.svg"
+   inkscape:export-filename="/home/lxsameer/tech5.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     borderopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="88.572157"
-     inkscape:cy="95.241059"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="50.14653"
+     inkscape:cy="95.46805"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:window-width="782"
-     inkscape:window-height="733"
-     inkscape:window-x="24"
-     inkscape:window-y="114"
+     showborder="false"
+     inkscape:window-width="1278"
+     inkscape:window-height="763"
+     inkscape:window-x="1024"
+     inkscape:window-y="36"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -53,59 +56,22 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-952.36218)">
+     transform="translate(0,-825.59055)">
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
-       x="45.538086"
-       y="1015.9561"
-       id="text2985"
+       style="font-style:normal;font-weight:normal;font-size:70px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="31.596298"
+       y="963.85638"
+       id="text4136"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan2987"
-         x="45.538086"
-         y="1015.9561"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#333333;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold">boot</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"
-       x="13.131983"
-       y="994.78351"
-       id="text2989"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan2991"
-         x="13.131983"
-         y="994.78351" /></text>
-    <g
-       id="g3122"
-       transform="matrix(0.3616716,0,0,0.3616716,103.72529,635.88366)"
-       style="fill:#333333">
-      <path
-         d="m 113.05731,1014.9865 c 0,27.511 -11.155,52.416 -29.181996,70.446 l 22.296996,22.299 c 23.737,-23.733 38.422,-56.526 38.422,-92.746 0,-36.22195 -14.684,-69.01195 -38.422,-92.74897 l -22.296996,22.30302 c 18.027996,18.031 29.181996,42.936 29.181996,70.44695 z"
-         id="path3081"
-         inkscape:connector-curvature="0"
-         style="fill:#333333" />
-      <path
-         d="m 148.91031,879.50953 -24.282,24.279 c 28.461,28.45902 46.066,67.77302 46.066,111.19797 0,43.425 -17.605,82.743 -46.06,111.201 l 24.276,24.276 c 34.672,-34.671 56.118,-82.571 56.118,-135.477 0,-52.90595 -21.447,-100.80497 -56.118,-135.47697 z"
-         id="path3089"
-         inkscape:connector-curvature="0"
-         style="fill:#333333" />
-    </g>
-    <g
-       style="fill:#333333"
-       transform="matrix(-0.3616716,0,0,0.3616716,76.21353,635.88366)"
-       id="g3126">
-      <path
-         style="fill:#333333"
-         inkscape:connector-curvature="0"
-         id="path3128"
-         d="m 113.05731,1014.9865 c 0,27.511 -11.155,52.416 -29.181996,70.446 l 22.296996,22.299 c 23.737,-23.733 38.422,-56.526 38.422,-92.746 0,-36.22195 -14.684,-69.01195 -38.422,-92.74897 l -22.296996,22.30302 c 18.027996,18.031 29.181996,42.936 29.181996,70.44695 z" />
-      <path
-         style="fill:#333333"
-         inkscape:connector-curvature="0"
-         id="path3130"
-         d="m 148.91031,879.50953 -24.282,24.279 c 28.461,28.45902 46.066,67.77302 46.066,111.19797 0,43.425 -17.605,82.743 -46.06,111.201 l 24.276,24.276 c 34.672,-34.671 56.118,-82.571 56.118,-135.477 0,-52.90595 -21.447,-100.80497 -56.118,-135.47697 z" />
-    </g>
+         id="tspan4138"
+         x="31.596298"
+         y="963.85638"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"><tspan
+           style="letter-spacing:-3.8199985px;fill:#4d4d4d"
+           id="tspan4142">Tech</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:80px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Heavy';fill:#d40000"
+           id="tspan4140">5</tspan></tspan></text>
   </g>
 </svg>
