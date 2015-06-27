@@ -9,8 +9,8 @@
     <meta name="description" content="Radio Boot, A podcast for Free software lovers">
     <link rel="author" href="https://www.google.com/+RadioBoot_com"/>
     <meta name="twitter:card" content="A Postcast about free software and technologies.">
-    <meta name="twitter:site" content="@radioboot">
-    <meta name="twitter:creator" content="@radioboot">
+    <meta name="twitter:site" content="@tech%Radio">
+    <meta name="twitter:creator" content="@tech5Radio">
 
     <%= yield_content :header %>
 
@@ -43,7 +43,7 @@
       <div class="item"><a href="/#listen"><%= t(:last_episode) %></a></div>
       <div class="item"><a href="/archive/"><%= t(:archive) %></a></div>
       <!-- <div class="item"><a href="/faq"><%= t(:faq) %></a></div>-->
-      <div class="item"><a href="http://twitter.com/radio_boot"><i class="twitter icon"></i> <%= t(:twitter) %></a></div>
+      <div class="item"><a href="http://twitter.com/tech5Radio"><i class="twitter icon"></i> <%= t(:twitter) %></a></div>
       <div class="item"><a href="http://www.facebook.com/radioboot.podcast"><i class="facebook squere icon"></i> <%= t(:facebook) %></a></div>
       <div class="item"><a href="https://www.google.com/+RadioBoot_com"><i class="google plus icon"></i> <%= t(:googleplus) %></a></div>
       <div class="item"><a href="/feed/"><i class="rss icon"></i> <%= t(:rss) %></a></div>
@@ -74,8 +74,8 @@
               <%= t(:follow_us) %> <i class="dropdown icon"></i>
               <div class="gray menu">
                 <a class="item" href="http://twitter.com/radio_boot"><i class="twitter icon"></i> <%= t(:twitter) %></a>
-                <a class="item" href="http://www.facebook.com/radioboot.podcast"><i class="facebook squere icon"></i> <%= t(:facebook) %></a>
-                <a class="item" href="https://www.google.com/+RadioBoot_com"><i class="google plus icon"></i> <%= t(:googleplus) %></a>
+                <!-- <a class="item" href="http://www.facebook.com/radioboot.podcast"><i class="facebook squere icon"></i> <%= t(:facebook) %></a>
+                <a class="item" href="https://www.google.com/+RadioBoot_com"><i class="google plus icon"></i> <%= t(:googleplus) %></a>-->
                 <a class="item" href="/feed/"><i class="rss icon"></i> <%= t(:rss) %></a>
 
               </div>
@@ -108,24 +108,16 @@
 
     </footer>
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    <!-- Start of StatCounter Code for Default Guide -->
-    <script type="text/javascript">
-     var sc_project=9849607;
-     var sc_invisible=1;
-     var sc_security="6bc69783";
-     var scJsHost = (("https:" == document.location.protocol) ?
-                      "https://secure." : "http://www.");
-     document.write("<sc"+"ript type='text/javascript' src='" +
-                    scJsHost+
-                    "statcounter.com/counter/counter.js'></"+"script>");
-    </script>
-    <noscript><div class="statcounter"><a title="click tracking"
-                                          href="http://statcounter.com/" target="_blank"><img
-      class="statcounter"
-      src="http://c.statcounter.com/9849607/0/6bc69783/1/"
-      alt="click tracking"></a></div></noscript>
-    <!-- End of StatCounter Code for Default Guide -->
+  ga('create', 'UA-37099840-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
     <div id="tmp" style="display: none !important;">
       <%= yield_content :tmp %>
     </div>
