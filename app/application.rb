@@ -101,9 +101,9 @@ class RadioApp < Sinatra::Application
     mime_type :xml, 'text/xml'
 
     use OmniAuth::Builder do
-      provider :twitter, ENV['TWITTER_CONSUMER_KEY'], ENV['TWITTER_CONSUMER_SECRET']
+      #provider :twitter, ENV['TWITTER_CONSUMER_KEY'], ENV['TWITTER_CONSUMER_SECRET']
       provider :github, ENV['GITHUB_KEY'], ENV['GITHUB_SECRET']
-      provider :google_oauth2, ENV["GOOGLE_CLIENT_ID"], ENV["GOOGLE_CLIENT_SECRET"]
+      #provider :google_oauth2, ENV["GOOGLE_CLIENT_ID"], ENV["GOOGLE_CLIENT_SECRET"]
 
     end
     @app_root = File.expand_path(File.dirname(__FILE__))
